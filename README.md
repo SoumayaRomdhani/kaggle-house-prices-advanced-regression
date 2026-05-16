@@ -19,8 +19,8 @@ The project includes a complete machine learning workflow: exploratory data anal
 
 My best submission achieved:
 
-- **Score:** `0.11905`
-- **Rank:** `160`
+- **Score:** `0.11705`
+- **Rank:** `90`
 
 This result was obtained using a combination of strong preprocessing, feature engineering, and ensemble learning with several regression models.
 
